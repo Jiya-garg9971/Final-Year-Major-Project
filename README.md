@@ -53,7 +53,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn shap lime
 
 **Jiya Garg** – [GitHub Profile](https://github.com/Jiya-garg9971)
 **Kirti Morya** – [GitHub Profile](https://github.com/KirtiMorya)
-**Anshi Srivastav** – [GitHub Profile](https://github.com/KirtiMorya)
-**Avishka Karn** – [GitHub Profile](https://github.com/KirtiMorya)
+**Anshi Srivastav** – [GitHub Profile](https://github.com/AnshiSrivastav)
+**Avishka Karn** – [GitHub Profile](https://github.com/anvi2003)
 
 
